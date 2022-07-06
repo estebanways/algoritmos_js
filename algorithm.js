@@ -15,6 +15,7 @@
  * If the quantity reaches a critical level of 1, the refrigerator adds a number of fruits
  * to the next express grocery order.
  *
+ *
  */
 
 const refrigerator = {

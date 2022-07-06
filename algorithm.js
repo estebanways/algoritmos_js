@@ -1,5 +1,5 @@
 /*
- * Problem:
+ * Problem statement:
  * For a refrigerator software coded in JavaScript, write a program that manages the
  * number of bananas in it and takes actions accordingly.
  * Entities:
@@ -14,7 +14,6 @@
  * The refrigerator updates the number of fruits available.
  * If the quantity reaches a critical level of 1, the refrigerator adds a number of fruits
  * to the next express grocery order.
- *
  *
  */
 
